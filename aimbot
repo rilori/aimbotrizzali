@@ -129,7 +129,7 @@ getgenv().RizzadinhasDevAimbot = {
 		Enabled = true,
 		Visible = true,
 
-		Radius = 80,
+		Radius = 70,
 		NumSides = 60,
 
 		Thickness = 1,
