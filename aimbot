@@ -94,8 +94,8 @@ getgenv().RizzadinhasDevAimbot = {
 		OffsetToMoveDirection = false,
 		OffsetIncrement = 15,
 
-		Sensitivity = 0.5, -- Animation length (in seconds) before fully locking onto target
-		Sensitivity2 = 1.5, -- mousemoverel Sensitivity
+		Sensitivity = 0.15, -- Animation length (in seconds) before fully locking onto target
+		Sensitivity2 = 1.15, -- mousemoverel Sensitivity
 
 		LockMode = 1, -- 1 = CFrame; 2 = mousemoverel; 3 = mousemoveabs
 		LockPart = "Head", -- Body part to lock on
